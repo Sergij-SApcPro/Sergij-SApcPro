@@ -1,3 +1,9 @@
+<h1>I'm Sergij Aleksovski</h1>
+
+Hello everyone, please visit my active GitLab Account where you can find all my latest projects: https://gitlab.com/sergijaleksovski. Thanks!<br>
+
+Also, don't forget to visit my website: https://sergij-sapcpro.github.io.
+
 <em>“Talk is cheap. Show me the code.”</em><br>
 ― Linus Torvalds
 <!--
